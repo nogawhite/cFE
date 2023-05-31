@@ -1,5 +1,40 @@
 # Changelog
 
+## Development Build: v7.0.0-rc4+dev318
+- generalize update header parameter
+- add msg verify capability
+- See <https://github.com/nasa/cFE/pull/2336> and <https://github.com/nasa/cFE/pull/2338>
+
+## Development Build: v7.0.0-rc4+dev312
+- adjust UT pool buffer size for platform config
+- Remove unused CFE_PLATFORM_ES_RESET_AREA_SIZE
+- See <https://github.com/nasa/cFE/pull/2328> and <https://github.com/nasa/cFE/pull/2331>
+
+## Development Build: v7.0.0-rc4+dev304
+- reorganize headers
+- Update XML files per interoperability testing
+- uniqueness of tbl target names
+- See <https://github.com/nasa/cFE/pull/2321>, <https://github.com/nasa/cFE/pull/2314>, and <https://github.com/nasa/cFE/pull/2319>
+
+## Development Build: v7.0.0-rc4+dev287
+- document CFS component file naming
+- Add EVS port timestamp and simplify port selection
+- remove else statement that was unreachable by unit tests
+- correct fallback file case
+- See <https://github.com/nasa/cFE/pull/2306>, <https://github.com/nasa/cFE/pull/2295>, <https://github.com/nasa/cFE/pull/2303>, and <https://github.com/nasa/cFE/pull/2312>
+
+## Development Build: v7.0.0-rc4+dev276
+- improve add_cfe_tables function
+- add option to link to generated files
+- Create Workflow for IC Bundle Generation
+- See <https://github.com/nasa/cFE/pull/2299>, <https://github.com/nasa/cFE/pull/2300>, and <https://github.com/nasa/cFE/pull/2298>
+
+## Development Build: v7.0.0-rc4+dev268
+- update naming convention document
+- remove return value doxygen markup
+- implement common search routine for config files
+- See <https://github.com/nasa/cFE/pull/2254>, <https://github.com/nasa/cFE/pull/2288>, and <https://github.com/nasa/cFE/pull/2290>
+
 ## Development Build: v7.0.0-rc4+dev260
 - add more generic status codes
 - separate dispatcher for messages
